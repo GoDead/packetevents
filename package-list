@@ -43,5 +43,8 @@ io.github.retrooper.packetevents.settings
 io.github.retrooper.packetevents.utils
 io.github.retrooper.packetevents.utils.api
 io.github.retrooper.packetevents.utils.nms_entityfinder
+io.github.retrooper.packetevents.utils.protocollib
+io.github.retrooper.packetevents.utils.protocolsupport
 io.github.retrooper.packetevents.utils.vector
 io.github.retrooper.packetevents.utils.versionlookup
+io.github.retrooper.packetevents.utils.viaversion
