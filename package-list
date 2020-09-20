@@ -36,12 +36,15 @@ io.github.retrooper.packetevents.packetwrappers.out.entityvelocity
 io.github.retrooper.packetevents.packetwrappers.out.gamestatechange
 io.github.retrooper.packetevents.packetwrappers.out.keepalive
 io.github.retrooper.packetevents.packetwrappers.out.kickdisconnect
+io.github.retrooper.packetevents.packetwrappers.out.playerinfo
 io.github.retrooper.packetevents.packetwrappers.out.position
 io.github.retrooper.packetevents.packetwrappers.out.transaction
 io.github.retrooper.packetevents.packetwrappers.out.updatehealth
 io.github.retrooper.packetevents.settings
 io.github.retrooper.packetevents.utils
+io.github.retrooper.packetevents.utils.bytebuf
 io.github.retrooper.packetevents.utils.entityfinder
+io.github.retrooper.packetevents.utils.gameprofile
 io.github.retrooper.packetevents.utils.nms
 io.github.retrooper.packetevents.utils.player
 io.github.retrooper.packetevents.utils.protocollib
